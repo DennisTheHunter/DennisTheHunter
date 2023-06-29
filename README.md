@@ -6,6 +6,8 @@
 
 #### Monero: 45n8WTSd97oT7GoL6mo1Vd9T35KgscDhuJcRfev9qmu74Pauj8WHNx9DXse5avNED88bZwnbtxzi1Dm
 
+#### Litecoin: ltc1q0dezwcvg9ay6jhlgzpqx6qrfkmmmy0gc5rala3
+
 <!--
 **DennisTheHunter/DennisTheHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
