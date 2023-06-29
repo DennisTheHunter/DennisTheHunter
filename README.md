@@ -8,6 +8,8 @@
 
 #### Litecoin: ltc1q0dezwcvg9ay6jhlgzpqx6qrfkmmmy0gc5rala3
 
+#### Etherium: Email DennisTheHunter@proton.me if you want etherium to be added
+
 <!--
 **DennisTheHunter/DennisTheHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
